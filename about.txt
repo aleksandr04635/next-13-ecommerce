@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=K4ziF0MhbLc
+https://github.com/codinginflow/nextjs-ecommerce/blob/7-Add-to-Cart-Button/src/app/products/%5Bid%5D/page.tsx
+
+next 13 e-comerce app - mongo, prisma, cart, search, pagination
